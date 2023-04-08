@@ -1,0 +1,21 @@
+.banner_wrapper{
+    font-size: 1.49rem;
+    background-color: rgb(248, 249, 250);
+    padding: 3rem;
+    border-radius: 0.5rem;
+}
+.body_wrapper{
+    padding-top: 3rem;
+}
+.banner_wrapper h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.content{
+    margin: 3rem;
+}
+
+.content button{
+    font-size: 1.5rem;
+}
